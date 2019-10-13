@@ -1,0 +1,19 @@
+*{background-color:grey;
+}
+ul.circle{
+  list-style-type: circle;
+  color: blue;
+}
+ul.square{
+  list-style-type: square;
+  color: yellow;
+}
+ol{
+  color: red;
+}
+ol.fff{
+color: yellow;
+}
+ul.ddd{
+  color: blue;
+}
